@@ -1,0 +1,13 @@
+/.pants.d/
+/dist
+/.pids
+/.pants.workdir.file_lock*
+
+__pycache__/
+*.pyc
+.venv/
+
+.idea/
+*.iml
+
+.env
